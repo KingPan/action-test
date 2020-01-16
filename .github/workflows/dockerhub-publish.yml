@@ -10,4 +10,4 @@ jobs:
       with:
         name: kingpan/test-image
         username: ${{ secrets.DOCKER_HUB_USERNAME }}
-        password: ${{ secrets.DOCKER__HUB_PASSWORD }}
+        password: ${{ secrets.DOCKER_HUB_PASSWORD }}
